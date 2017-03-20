@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Downgrade" description="Nerf your enemies!" gfx="Collectibles_Downgrade.png" maxcharges="3"/>
+</items>
